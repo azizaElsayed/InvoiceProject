@@ -1,0 +1,9 @@
+D:\E_Marketing\Invoice Project\Invoice Project\bin\Debug\Invoice Project.exe.config
+D:\E_Marketing\Invoice Project\Invoice Project\bin\Debug\Invoice Project.exe
+D:\E_Marketing\Invoice Project\Invoice Project\bin\Debug\Invoice Project.pdb
+D:\E_Marketing\Invoice Project\Invoice Project\obj\Debug\Invoice Project.csprojResolveAssemblyReference.cache
+D:\E_Marketing\Invoice Project\Invoice Project\obj\Debug\Invoice_Project.Form1.resources
+D:\E_Marketing\Invoice Project\Invoice Project\obj\Debug\Invoice_Project.Properties.Resources.resources
+D:\E_Marketing\Invoice Project\Invoice Project\obj\Debug\Invoice Project.csproj.GenerateResource.Cache
+D:\E_Marketing\Invoice Project\Invoice Project\obj\Debug\Invoice Project.exe
+D:\E_Marketing\Invoice Project\Invoice Project\obj\Debug\Invoice Project.pdb
